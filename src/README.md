@@ -1,4 +1,4 @@
-<h1>Data Processing Models</h1>
+<h1>Machine Learning Models</h1>
 
 <p>Under this directory, there are three methods to analyze the Covid-19 public data. </p>
 
