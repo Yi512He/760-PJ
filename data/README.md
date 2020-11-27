@@ -2,7 +2,7 @@
 
 <h2>Data Retrieval</h2>
 
-<p>Information regarding the data source is recorded under the sub folder <code>raw<code>.</p>
+<p>Information regarding the data source is recorded under the sub folder <code>raw</code>.</p>
 
 <h2>Data Preprocessing</h2>
 
