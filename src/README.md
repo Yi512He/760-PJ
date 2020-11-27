@@ -10,4 +10,5 @@
 
 <p>All three of the experiments are conducted under the <code>jupyter nodebook</code> computation interactive environment.</p>
 <p>To run each of the experiment, please go to each sub directory and follow the instruction on README.</p>
-<p>Note that, different experiment might require different packages. </p>
+<p>Note that, different experiment might require different versions of <code>Python</code> or different packages. </p>
+<p>Different models might have different encoding scheme.</p>
