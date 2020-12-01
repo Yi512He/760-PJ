@@ -15,7 +15,7 @@
   <li><code>imblearn</code></li>
 </ul>
 
-<p>Package Used For Visualization:</p>
+<p>Packages Used For Visualization:</p>
 
 <ul>
   <li><code>pyplot</code></li>
@@ -30,7 +30,8 @@
 
 <h2>Encoding Scheme</h2>
 
-<p>Logistic Regression requires binary encoding variables to process. Slightly different from what we did in homework, we first modified the features by split all possible choices. For example, for age_group, I split that feature into 9 features: age_group_0_to_9, age_group_10_to_19, etc. 
+<p>Logistic Regression requires binary encoding variables to process wheareas the original data are categorical. Slightly different from what we did in homework, we modified the features by split all possible choices.</p> 
+<p>For example, for age_group, I split that feature into 9 features: age_group_0_to_9, age_group_10_to_19, etc. 
 1 for True and 0 for False.</p>
 
 <table style="width:100%">
